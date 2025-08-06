@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "paradigma-atv-1-2", "paradigma-atv-1-2.csproj", "{77D33D5B-BEBA-0693-12FC-DA4FE950D736}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77D33D5B-BEBA-0693-12FC-DA4FE950D736}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77D33D5B-BEBA-0693-12FC-DA4FE950D736}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77D33D5B-BEBA-0693-12FC-DA4FE950D736}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77D33D5B-BEBA-0693-12FC-DA4FE950D736}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CC8DFC2-DBC4-42A5-9BD6-3F9CEEFCEBA1}
+	EndGlobalSection
+EndGlobal
